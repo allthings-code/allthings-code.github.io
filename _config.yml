@@ -31,7 +31,13 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
-
+  
+utterance:
+  repo: allthings-code/allthings-code.github.io
+  issue-term: path. 
+  theme: github-dark
+  label:  blog-comments 
+  
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
