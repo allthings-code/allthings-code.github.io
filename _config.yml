@@ -31,6 +31,11 @@ github_username:  jekyll
 theme: minima
 plugins:
   - jekyll-feed
+
+google_analytics: G-EZYZ4Q0W4Q
+
+plugins:
+  - jekyll-seo-tag
   
 utterance:
   repo: allthings-code/allthings-code.github.io
