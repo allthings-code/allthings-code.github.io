@@ -5,19 +5,21 @@ date:   2021-08-16 23:32:43 -0700
 categories: jekyll update
 ---
 
+"Life is not a matter of holding good cards, but of playing a poor hand well." - Robert Louis Stevenson
+
 # Introduction
 If you're thinking "Wait a minute, this is a programming blog and not a gothic Scottish novel about a shapeshifting doctor?! What gives?" then stop right there!
 Jekyll (the tool, not the doctor) is quite similar to its' namesake - but rather than turn into a serial murderer - Jekyll turns generic markdown files into a static website. It allows you to serve user content quickly and easily.
 
 # Background
-Written in Ruby (LINK) by Tom Preston-Werner (LNK) in the year 2008, Jekyll was a pioneer in the space of static web pages (LINK). Tom Preston-Werner went on later in his career to cofound Github (LINK) where Jekyll was slated as the engine behing Github Pages (LINK). Now Jekyll is the most widely adopted static web page generator.
+Written in [Ruby]: https://www.ruby-lang.org/en/documentation/ by [Tom Preston-Werner]: https://en.wikipedia.org/wiki/Tom_Preston-Werner in the year 2008, Jekyll was a pioneer in the space of [static web pages]: https://en.wikipedia.org/wiki/Static_web_page. Tom Preston-Werner went on later in his career to cofound [Github]: https://github.com/ where Jekyll was slated as the engine behind [Github Pages]: https://pages.github.com/. Now Jekyll is the most widely adopted static web page generator.
 
 # Jekyll's Secret Serum
 So how exactly does Jekyll work? It's quite simple really. First, Jekyll composes all files within the _posts directory as post objects. What's the _posts directory you ask? We will get to that. Then Jekyll composes all files withn the _site directory as layout objects.
 
 Then, Jekyll creates one giant ruby object by combining these composed posts/layouts with site metadata (dates, titles, links, etc).
 
-Jekyll then uses a language called Liquid[LINK] o liquify all posts and layouts.
+Jekyll then uses a language called [Liquid]: https://shopify.github.io/liquid/ to liquify all posts and layouts.
 
 Finally, these liquified templates and posts are rendered.
 
