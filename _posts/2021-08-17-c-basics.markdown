@@ -5,8 +5,13 @@ date:   2021-08-17 22:32:43 -0700
 categories: jekyll update
 ---
 
+"You can't trust code that you did not totally create yourself." - Ken Thompson
+
+# Prerequisites
+History of C
+
 # Introduction
-I C you C we all C for icecream? Okay, I'll stop replacing C for see (even if it pains me). Instead, let's discuss 'C' - the language behind the languages! Where does it come from?
+
 
 # Background
 So what exactly is C? C is a general purpose programming language used as the de-facto language in operating system development. It often acts as a middle man between higher level languages and low level assembly languages.
