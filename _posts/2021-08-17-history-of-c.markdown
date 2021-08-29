@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "I C What You Did There - A Brief History of the C Language."
+title:  "A Brief History of the C Language."
 date:   2021-08-17 22:32:43 -0700
 categories: C histoy background Unix Multics PDP-7 Bell Labs Dennis Ritchie Ken Thompson Brian Kernighan
 ---
 
-“C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.” — Brian Kernighan
+“C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.” -- Brian Kernighan
 
 # Introduction
 I C you C we all C for icecream? Okay, I'll stop replacing C for see (even if it pains me). Instead, let's discuss 'C' - the language behind the languages! Where does it come from? Who are the men behind it? And, where is C most prevalent today?
