@@ -21,11 +21,11 @@ Ken Thompson and Dennis Ritchie developed the Unix operating system in assembly 
 Even though C has morped into other well known languages like C++ and C#, it is still one of the world's most used software tools. Mostly used to interact with embedded systems, C is behind the oeprating systems of Windows, Linux, MacOS, iOS, Android, and even the now extinct Windows Phone. Famous database systems like Oracle, MySQL, and PostgreSQL have all been written in C. Many of our home electronics are written in C like your coffee maker, toaster, or even TV.
 
 # Terms
-[Operating Systems][Operating Systems]
-[Multics][Multics]
-[Unix][Unix]
-[PDP-7][PDP-7]
-[BCPL][BCPL]
+- [Operating Systems][Operating Systems]
+- [Multics][Multics]
+- [Unix][Unix]
+- [PDP-7][PDP-7]
+- [BCPL][BCPL]
 
 # Appendix
 http://jekyllbootstrap.com/lessons/jekyll-introduction.html#:~:text=The%20following%20is%20an%20outline%20of%20how%20that%27s,and%20templates.%20...%204%20Jekyll%20generates%20output.%20
@@ -43,7 +43,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [BCPL]: https://www.bell-labs.com/usr/dmr/www/bcpl.html
 [Bell Labs]: https://en.wikipedia.org/wiki/Bell_Labs
 [Brian Kernighan]: https://www.cs.princeton.edu/~bwk/ 
-[Mutlics]: https://en.wikipedia.org/wiki/Multics
+[Multics]: https://en.wikipedia.org/wiki/Multics
 [Operating Systems]: http://cs241.cs.illinois.edu/coursebook/index.html
 [PDP-7]: https://gunkies.org/wiki/PDP-7
 [Unix]: https://www.howtogeek.com/182649/htg-explains-what-is-unix/
