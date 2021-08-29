@@ -2,6 +2,7 @@
 layout: post
 title:  "C Language Basics"
 date:   2021-08-17 22:32:43 -0700
+published: false
 categories: jekyll update
 ---
 
@@ -9,12 +10,13 @@ categories: jekyll update
 
 # Prerequisites
 History of C
+Installing C for Windows, Linux, or Mac
 
 # Introduction
+Now that we've got things installed and working on our computer, let's get into the code!
 
-
-# Background
-So what exactly is C? C is a general purpose programming language used as the de-facto language in operating system development. It often acts as a middle man between higher level languages and low level assembly languages.
+# Hello World
+It wouldn't be a tutorial without the penultimate of programming tropes: the hello world program.
 
 # Ken Thompson and Dennis Ritchie
 Who are these sultans of software? Together they created programming paradigmns you could not live without. Originally working together on the Multics [LINK] operating system at Bell Labs [LINK], Ken and Dennis cobbled together a new operating system on a PDP-7 [LINK] they had lying around. Coined 'Unix' by Brian Kernighan [LINK], it would go on to be the founding force behind the C language and inspiration for the world famous Linux and iOS.
