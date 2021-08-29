@@ -34,6 +34,9 @@ plugins:
 
 google_analytics: G-EZYZ4Q0W4Q
 
+# Google CSE (Custom Search Engine) ID
+google_cse_id: 24861c2fdff35af79
+
 plugins:
   - jekyll-seo-tag
   
