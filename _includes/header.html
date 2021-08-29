@@ -7,10 +7,10 @@
 
     {%- if page_paths -%}
       <nav class="site-nav">
-        <div>
-          <script async src="https://cse.google.com/cse.js?cx=24861c2fdff35af79"></script>
-          <div class="gcse-search"></div>
-        </div>
+        <form method="get" action="../_layouts/search.html">
+          <input type="text" name="q">
+          <button type="submit">Search</button>
+        </form>
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">
