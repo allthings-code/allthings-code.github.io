@@ -10,7 +10,7 @@ categories:
 “But it works on my machine” -- Unknown
 
 # Prerequisites
-[History of C][History of C]
+[A Brief History of C the Language][A Brief History of C the Language]
 
 # Introduction
 Sally sells C shells on the C shore. Okay, not really. But, she might help us install C with a shell (wink wink). Let's discuss how to install C so we can get to coding!
@@ -105,8 +105,8 @@ Congratulations on your successful C program!
 - [MinGW Documentation][MinGW Documentation]
 - [Visual Studio Code Documentation][Visual Studio Code Documentation]
 
+[A Brief History of C the Language]: https://allthings-code.github.io/2021/08/18/history-of-c.html
 [C Fundamentals]: https://google.com
-[History of C]: https://allthings-code.github.io/2021/08/18/history-of-c.html
 [MinGW Documentation]: https://www.mingw-w64.org/
 [MinGW Installation]: https://sourceforge.net/projects/mingw/
 [More on GCC]: https://en.wikipedia.org/wiki/GNU_Compiler_Collection
