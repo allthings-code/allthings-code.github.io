@@ -78,7 +78,7 @@ Now that we understand what our code does, let's compile and run it using the to
 Now, from your terminal, run the command:
 
 {% highlight c %}
-gcc <your-file-name>.c -o HelloWorld#include <stdio.h>
+gcc <your-file-name>.c -o HelloWorld
 {% endhighlight %}
 
  This command will use gcc to compile your .c file into a HelloWorld executable. This executable will run our code in main()!
