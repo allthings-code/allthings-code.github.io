@@ -106,7 +106,7 @@ Congratulations on your successful C program!
 - [Visual Studio Code Documentation][Visual Studio Code Documentation]
 
 [C Fundamentals]: https://google.com
-[History of C]: https://google.com
+[History of C]: https://allthings-code.github.io/2021/08/18/history-of-c.html
 [MinGW Documentation]: https://www.mingw-w64.org/
 [MinGW Installation]: https://sourceforge.net/projects/mingw/
 [More on GCC]: https://en.wikipedia.org/wiki/GNU_Compiler_Collection

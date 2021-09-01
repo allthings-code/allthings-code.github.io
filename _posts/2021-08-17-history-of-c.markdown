@@ -35,7 +35,7 @@ Even though C has morped into other well known languages like C++ and C#, it is 
 
 [BCPL]: https://www.bell-labs.com/usr/dmr/www/bcpl.html
 [Bell Labs]: https://en.wikipedia.org/wiki/Bell_Labs
-[How to Install C]: https://allthings-code.github.io/c/
+[How to Install C]: https://allthings-code.github.io/2021/08/21/how-to-install-c.html
 [Multics]: https://en.wikipedia.org/wiki/Multics
 [Operating Systems]: http://cs241.cs.illinois.edu/coursebook/index.html
 [PDP-7]: https://gunkies.org/wiki/PDP-7
