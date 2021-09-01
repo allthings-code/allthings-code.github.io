@@ -101,7 +101,7 @@ Congratulations on your successful C program!
 [C Fundamentals][C Fundamentals]
 
 # Appendix
-- [More on GCC][GCC]
+- [More on GCC][More on GCC]
 - [MinGW Documentation][MinGW Documentation]
 - [Visual Studio Code Documentation][Visual Studio Code Documentation]
 
