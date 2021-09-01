@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "A Brief History of the C Language."
+series: "I C What You Did There"
 date:   2021-08-17 22:32:43 -0700
-categories: C histoy background Unix Multics PDP-7 Bell Labs Dennis Ritchie Ken Thompson Brian Kernighan
+categories:
 ---
 
 “C is a razor-sharp tool, with which one can create an elegant and efficient program or a bloody mess.” -- Brian Kernighan
@@ -22,6 +23,9 @@ Ken Thompson and Dennis Ritchie developed the Unix operating system in assembly 
 # C Today
 Even though C has morped into other well known languages like C++ and C#, it is still one of the world's most used software tools. Mostly used to interact with embedded systems, C is behind the oeprating systems of Windows, Linux, MacOS, iOS, Android, and even the now extinct Windows Phone. Famous database systems like Oracle, MySQL, and PostgreSQL have all been written in C. Many of our home electronics are written in C like your coffee maker, toaster, or even TV.
 
+# Read Next
+[How to Install C][How to Install C]
+
 # Appendix
 - [Operating Systems][Operating Systems]
 - [Multics][Multics]
@@ -31,6 +35,7 @@ Even though C has morped into other well known languages like C++ and C#, it is 
 
 [BCPL]: https://www.bell-labs.com/usr/dmr/www/bcpl.html
 [Bell Labs]: https://en.wikipedia.org/wiki/Bell_Labs
+[How to Install C]: https://allthings-code.github.io/c/
 [Multics]: https://en.wikipedia.org/wiki/Multics
 [Operating Systems]: http://cs241.cs.illinois.edu/coursebook/index.html
 [PDP-7]: https://gunkies.org/wiki/PDP-7
