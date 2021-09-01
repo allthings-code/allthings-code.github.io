@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "A Brief History of the C Language."
+title:  "A Brief History of the C Language"
 series: "I C What You Did There"
 date:   2021-08-17 22:32:43 -0700
 categories:
