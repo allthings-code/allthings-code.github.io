@@ -189,5 +189,5 @@ WIP
 [A Brief History of C the Language]: https://allthings-code.github.io/2021/08/18/history-of-c.html
 [Byte]: https://en.wikipedia.org/wiki/Byte
 [<ctype.h>]: https://www.tutorialspoint.com/c_standard_library/ctype_h.htm
-[How to Install C]: https://allthings-code.github.io/2021/08/20/how-to-install-c.html
+[How to Install C]: https://allthings-code.github.io/2021/08/21/how-to-install-c.html
 [<string.h>]: https://www.techonthenet.com/c_language/standard_library_functions/string_h/index.php
