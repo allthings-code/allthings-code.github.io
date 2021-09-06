@@ -10,8 +10,8 @@ categories: jekyll update
 "When I was young, I had to learn the fundamentals of basketball. You can have all the physical ability in the world, but you still have to know the fundamentalsYou can't trust code that you did not totally create yourself." - Michael Jordan
 
 # Prerequisites
-[A Brief History of C the Language][A Brief History of C the Language]
-[How to Install C][How to Install C]
+- [A Brief History of C the Language][A Brief History of C the Language]
+- [How to Install C][How to Install C]
 
 # Introduction
 Now that we've got things installed and working on our computer, let's get into learning the fundamentals of C! The fundamentals made Jordan the greatest basketball player of all time and learning the basics of C will make you the greatest programmer of all time (after myself of course). We will start with learning about data types.
